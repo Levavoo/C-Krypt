@@ -1,0 +1,13 @@
+# Visual Studio
+.vs/
+
+# Build-Ergebnisse
+bin/
+obj/
+
+# Benutzerbezogene Einstellungen
+*.user
+*.suo
+
+# JetBrains Rider
+.idea/
